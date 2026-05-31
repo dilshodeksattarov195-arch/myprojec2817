@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifydalidate",
+        "uuid": 13242717,
+        "checksum": "41na3e"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
